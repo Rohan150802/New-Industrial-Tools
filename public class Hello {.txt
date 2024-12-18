@@ -3,4 +3,6 @@ public class Hello {
 	public static void main(String[] args) 
 {
 		System.out.printLn("Patil");
+		System.out.println("18 dec 20024");
+System.out.println("GoodBy 2024"); 
 	}
