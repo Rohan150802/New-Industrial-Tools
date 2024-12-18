@@ -4,5 +4,6 @@ public class Hello {
 {
 		System.out.printLn("Patil");
 		System.out.println("18 dec 20024");
-System.out.println("GoodBy 2024"); 
+System.out.println("GoodBy 2024");
+System.out.println("Happy New Year"); 
 	}
